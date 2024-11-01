@@ -1,0 +1,67 @@
+= Version 1.3.1 =
+* Added OTP verification for new WordPress user registrations.
+* Mobile number column added to the user page in the admin.
+* Display mobile number field on the Edit User page (read-only).
+* Other improvements and bug fixes.
+
+= Version 1.3.0 =
+* Password field hidden after login credentials authenticated
+* Added Datatable pagination to Delivery report page
+* Added Datatable pagination to Credit summary page
+* Subscriber Group and Contact feature added
+
+= Version 1.2.9 =
+* Security improvements.
+* Login auth validation with SMS Gateway Center API.
+* Message templates listing with all DLT attributes.
+* Group fetch.
+* Added default sender name and default routing options in settings page.
+* Send group SMS added. Send to multiple group options added.
+
+= Version 1.2.8 =
+* Auth validation added when adding username and password.
+* If auth does not exist/verified, rest of the pages wont load and makes API call.
+* CSS fixes.
+
+= Version 1.2.7 =
+* Send SMS revamped with design.
+* Added Credit Summary Report.
+* Added Sender names.
+* Added view profile page.
+* All pages improvements.
+
+= Version 1.2.6 =
+* Fixed Delivery report with new changes.
+* Bug fixes.
+
+= Version 1.2.5 =
+* Fixed incoming SMS report.
+* Bug fixes.
+
+= Version 1.2.4 =
+* Bug fixes.
+
+= Version 1.2.3 =
+* Added International SMS Support.
+* Added Unicode SMS Support.
+* Added Flash SMS Support.
+* Few improvements.
+
+= Version 1.2.1 =
+* Fixed SMS Check balance bug.
+
+= Version 1.2.1 =
+* Fixed SMS Check balance bug.
+* Few improvements.
+
+=======
+= Version 1.2.1 =
+* Fixed SMS Check balance bug.
+* Few improvements.
+
+= Version 1.2 =
+* Added functionality to check SMS balance, change account password.
+
+
+= Version 1.1 =
+* New Version released.
